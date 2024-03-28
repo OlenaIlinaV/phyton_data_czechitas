@@ -33,3 +33,4 @@ if len(finishers) >= 2:
 else:
     print("\n Недостатньо учасників, щоб визначити срібного медаліста.")
 
+print('Hello, Olena!')
