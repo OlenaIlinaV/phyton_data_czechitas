@@ -1,0 +1,34 @@
+[
+    {
+        "jmeno": "Petr",
+        "prijmeni": "Roman",
+        "rok": 2017,
+        "dochazka": 0.0,
+        "vyznamenani": true,
+        "vyznameni": false
+    },
+    {
+        "jmeno": "Jana",
+        "prijmeni": "Kočanská",
+        "rok": 2015,
+        "dochazka": 0.0,
+        "vyznamenani": true,
+        "vyznameni": false
+    },
+    {
+        "jmeno": "Eva",
+        "prijmeni": "Horká",
+        "rok": 2014,
+        "dochazka": 0.0,
+        "vyznamenani": false,
+        "vyznameni": false
+    },
+    {
+        "jmeno": "Ivo",
+        "prijmeni": "Roubeník",
+        "rok": 2017,
+        "dochazka": 0.0,
+        "vyznamenani": false,
+        "vyznameni": false
+    }
+]
